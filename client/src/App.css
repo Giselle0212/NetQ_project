@@ -1,0 +1,13 @@
+
+body{
+  color:blue;
+}
+h1{
+  font-size: 6rem;
+}
+
+@media(max-width: 500px){
+  body{
+    color: red;
+  }
+}
